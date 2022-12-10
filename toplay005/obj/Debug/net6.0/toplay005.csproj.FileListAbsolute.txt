@@ -1,0 +1,15 @@
+D:\git\test\toplay005\bin\Debug\net6.0\toplay005.exe
+D:\git\test\toplay005\bin\Debug\net6.0\toplay005.deps.json
+D:\git\test\toplay005\bin\Debug\net6.0\toplay005.runtimeconfig.json
+D:\git\test\toplay005\bin\Debug\net6.0\toplay005.dll
+D:\git\test\toplay005\bin\Debug\net6.0\toplay005.pdb
+D:\git\test\toplay005\obj\Debug\net6.0\toplay005.csproj.AssemblyReference.cache
+D:\git\test\toplay005\obj\Debug\net6.0\toplay005.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\test\toplay005\obj\Debug\net6.0\toplay005.AssemblyInfoInputs.cache
+D:\git\test\toplay005\obj\Debug\net6.0\toplay005.AssemblyInfo.cs
+D:\git\test\toplay005\obj\Debug\net6.0\toplay005.csproj.CoreCompileInputs.cache
+D:\git\test\toplay005\obj\Debug\net6.0\toplay005.dll
+D:\git\test\toplay005\obj\Debug\net6.0\refint\toplay005.dll
+D:\git\test\toplay005\obj\Debug\net6.0\toplay005.pdb
+D:\git\test\toplay005\obj\Debug\net6.0\toplay005.genruntimeconfig.cache
+D:\git\test\toplay005\obj\Debug\net6.0\ref\toplay005.dll
